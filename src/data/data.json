@@ -1,0 +1,152 @@
+[
+    {
+        "brand": "Mazda",
+        "data": 34.5,
+        "date": "01-01-2019"
+    },
+    {
+        "brand": "Mazda",
+        "data": 30.2,
+        "date": "02-01-2019"
+    },
+    {
+        "brand": "Mazda",
+        "data": 40.1,
+        "date": "03-01-2019"
+    },
+    {
+        "brand": "Mazda",
+        "data": 34.3,
+        "date": "04-01-2019"
+    },
+    {
+        "brand": "Mazda",
+        "data": 27.6,
+        "date": "05-01-2019"
+    },
+    {
+        "brand": "Mazda",
+        "data": 32.1,
+        "date": "06-01-2019"
+    },
+    {
+        "brand": "Mazda",
+        "data": 37.5,
+        "date": "07-01-2019"
+    },
+    {
+        "brand": "Mazda",
+        "data": 38.9,
+        "date": "08-01-2019"
+    },
+    {
+        "brand": "Mazda",
+        "data": 39.2,
+        "date": "09-01-2019"
+    },
+    {
+        "brand": "Mazda",
+        "data": 33.3,
+        "date": "10-01-2019"
+    },
+    {
+        "brand": "Honda",
+        "data": 22.5,
+        "date": "01-01-2019"
+    },
+    {
+        "brand": "Honda",
+        "data": 50.2,
+        "date": "02-01-2019"
+    },
+    {
+        "brand": "Honda",
+        "data": 31.6,
+        "date": "03-01-2019"
+    },
+    {
+        "brand": "Honda",
+        "data": 24.3,
+        "date": "04-01-2019"
+    },
+    {
+        "brand": "Honda",
+        "data": 25.6,
+        "date": "05-01-2019"
+    },
+    {
+        "brand": "Honda",
+        "data": 12.1,
+        "date": "06-01-2019"
+    },
+    {
+        "brand": "Honda",
+        "data": 22.5,
+        "date": "07-01-2019"
+    },
+    {
+        "brand": "Honda",
+        "data": 18.9,
+        "date": "08-01-2019"
+    },
+    {
+        "brand": "Honda",
+        "data": 19.2,
+        "date": "09-01-2019"
+    },
+    {
+        "brand": "Honda",
+        "data": 22.2,
+        "date": "10-01-2019"
+    },
+    {
+        "brand": "JAC",
+        "data": 14.5,
+        "date": "01-01-2019"
+    },
+    {
+        "brand": "JAC",
+        "data": 10.2,
+        "date": "02-01-2019"
+    },
+    {
+        "brand": "JAC",
+        "data": 10.1,
+        "date": "03-01-2019"
+    },
+    {
+        "brand": "JAC",
+        "data": 24.1,
+        "date": "04-01-2019"
+    },
+    {
+        "brand": "JAC",
+        "data": 21.6,
+        "date": "05-01-2019"
+    },
+    {
+        "brand": "JAC",
+        "data": 12.1,
+        "date": "06-01-2019"
+    },
+    {
+        "brand": "JAC",
+        "data": 17.5,
+        "date": "07-01-2019"
+    },
+    {
+        "brand": "JAC",
+        "data": 8.9,
+        "date": "08-01-2019"
+    },
+    {
+        "brand": "JAC",
+        "data": 9.2,
+        "date": "09-01-2019"
+    },
+    {
+        "brand": "JAC",
+        "data": 11.1,
+        "date": "10-01-2019"
+    }
+]
